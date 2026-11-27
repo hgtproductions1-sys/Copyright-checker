@@ -1,0 +1,6 @@
+{
+  "name": "OrigiSound",
+  "description": "Zero-account viral content discovery and original audio verification across TikTok, Instagram, Douyin, and Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
